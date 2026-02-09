@@ -1,0 +1,33 @@
+# -------- Python --------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -------- Virtual Env --------
+.venv/
+venv/
+env/
+
+# -------- Pytest --------
+.pytest_cache/
+htmlcov/
+coverage.xml
+
+# -------- Screenshots & Reports --------
+screenshots/
+reports/
+allure-results/
+allure-report/
+test-results/
+*.png
+*.jpg
+
+# -------- Logs --------
+*.log
+
+# -------- IDE / OS --------
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
