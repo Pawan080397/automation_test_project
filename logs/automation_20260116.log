@@ -1,0 +1,8 @@
+2026-01-16 15:13:51,733 | INFO | FusionDashboardTest | Test started: fusion tab click
+2026-01-16 15:13:51,734 | INFO | FusionAnalysisPage | Clicking on fusion tab
+2026-01-16 15:14:05,753 | INFO | FusionAnalysisPage | Clicked fusion tab successfully
+2026-01-16 15:14:05,753 | INFO | FusionDashboardTest | Test completed: fusion tab click
+2026-01-16 15:15:03,260 | INFO | FusionDashboardTest | Test started: fusion tab click
+2026-01-16 15:15:03,261 | INFO | FusionAnalysisPage | Clicking on fusion tab
+2026-01-16 15:15:21,633 | INFO | FusionAnalysisPage | Clicked fusion tab successfully
+2026-01-16 15:15:21,636 | INFO | FusionDashboardTest | Test completed: fusion tab click

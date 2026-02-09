@@ -1,0 +1,14 @@
+2026-01-12 15:39:57,783 | INFO | FusionDashboardTest | Test started: fusion tab click
+2026-01-12 15:39:57,787 | INFO | FusionAnalysisPage | Clicking on fusion tab
+2026-01-12 15:42:09,337 | INFO | FusionDashboardTest | Test started: fusion tab click
+2026-01-12 15:42:09,338 | INFO | FusionAnalysisPage | Clicking on fusion tab
+2026-01-12 15:43:00,180 | INFO | FusionDashboardTest | Test started: fusion tab click
+2026-01-12 15:43:00,182 | INFO | FusionAnalysisPage | Clicking on fusion tab
+2026-01-12 15:43:33,125 | INFO | FusionDashboardTest | Test started: fusion tab click
+2026-01-12 15:43:33,126 | INFO | FusionAnalysisPage | Clicking on fusion tab
+2026-01-12 15:44:19,454 | INFO | FusionDashboardTest | Test started: fusion tab click
+2026-01-12 15:44:19,455 | INFO | FusionAnalysisPage | Clicking on fusion tab
+2026-01-12 17:11:15,997 | INFO | FusionDashboardTest | Test started: fusion tab click
+2026-01-12 17:11:15,998 | INFO | FusionAnalysisPage | Clicking on fusion tab
+2026-01-12 17:11:30,215 | INFO | FusionAnalysisPage | Clicked fusion tab successfully
+2026-01-12 17:11:30,216 | INFO | FusionDashboardTest | Test completed: fusion tab click
