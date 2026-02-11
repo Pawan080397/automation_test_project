@@ -28,3 +28,4 @@ def test_force_disposition_equipment_filter(driver):
     fusion.click_on_search()
     fusion.click_on_table_view()
     time.sleep(10)
+    time.sleep(5)
